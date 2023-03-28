@@ -1,5 +1,5 @@
-[1]:images/work.jpg
-[2]:images/class.jpg
+[1]:work.jpg
+[2]:class.jpg
 
 # ИТЕРАТОР (Task 4)
 
